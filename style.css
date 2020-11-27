@@ -81,7 +81,7 @@ body{
         width: 80%;
     }
     .card:hover img{
-        left:50%;
+        left:0;
         height: 350px;
     }
     .card .content{
